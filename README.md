@@ -1,7 +1,7 @@
 # -BTTH-
 [BTTH4-BAI1] (https://github.com/DXD210/BTTH)
-BTTH4-BAI2 https://github.com/DXD210/BTTH4-BAI2
-BTTH4-BAI3 https://github.com/DXD210/BTTH4-BAI3
+[BTTH4-BAI2] (https://github.com/DXD210/BTTH4-BAI2)
+[BTTH4-BAI3] (https://github.com/DXD210/BTTH4-BAI3)
 BTTH5-BAI1 https://github.com/DXD210/BTTH5-BAI1
 [BTTH5-BAI2] (https://github.com/DXD210/BTTH5-BAI2)
 BTTH5-BAI4 https://github.com/DXD210/BTTH5-BAI4
